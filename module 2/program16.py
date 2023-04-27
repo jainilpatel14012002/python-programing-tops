@@ -1,2 +1,2 @@
-sentence = "I HAVE ONLY LEFT AN YEAR TO COMPLETE MY BTECH IN COMPUTER ENGINEERING"
-print("The count of E is :",sentence.count('E'))
+sentence = "I HAVE ONLY LEFT AN YEAR TO COMPLETE MY BTECH IN COMPUTER ENGINEERING HAVE HAVE HAVE"
+print("The count of HAVE is :",sentence.count('HAVE'))
