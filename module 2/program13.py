@@ -1,3 +1,3 @@
 string1 = input("Enter the string 1: ")
-char = "i"
+char = "was"
 print(string1.count(char))

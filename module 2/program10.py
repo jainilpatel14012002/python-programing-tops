@@ -12,4 +12,5 @@ else:
      print("false2")
 if diff is 5:
   print("true3")
+else:
   print("false3")

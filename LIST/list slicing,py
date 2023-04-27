@@ -1,0 +1,13 @@
+l1 = [1,2,3,"tops",True,10,20,"python",False,"java",1.1,23.34,90,78,45,12,3]
+print(l1[16:])
+print(l1[1:5:5])
+print(l1[15::4])
+print(l1[::10])
+print(l1[1:11:1])
+print(l1[0:5:3])
+print(l1[-17:0])
+print(l1[-15:-5:5])
+print(l1[-14::2])
+print(l1[0::-10])
+print(l1[-16:-6:6])
+print(l1[:-1:5])
