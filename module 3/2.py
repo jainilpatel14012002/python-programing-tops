@@ -1,8 +1,5 @@
 # remove last object from the list
 l1 = [5,4,3,2,1]
-l2 = [1,2,3,4,5]
-
-print(id(l1))
-print(id(l2))
-
-
+print("the min value is:",min(l1))  # to print minimum value
+print("the max value is:",max(l1))  # to print maximum value
+print("the sum of list:",sum(l1))
