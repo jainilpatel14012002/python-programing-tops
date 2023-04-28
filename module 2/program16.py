@@ -1,2 +1,7 @@
 sentence = "I HAVE ONLY LEFT AN YEAR TO COMPLETE MY BTECH IN COMPUTER ENGINEERING HAVE HAVE HAVE"
-print("The count of HAVE is :",sentence.count('HAVE'))
+d = {}
+a = sentence.split()
+for i in a:
+    c = a.count(i)
+    b = d.update(i,c)
+    print(b)

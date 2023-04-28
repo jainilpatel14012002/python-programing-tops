@@ -1,6 +1,7 @@
+# PROGRAM FOR FACTORIAL OF NUMBER:
 number =int(input("enter the number:-"))
 f = 1
-for i in range(1,number+1):
-    f=f*i
+for num in range(1,number+1):
+    f=f*num
 print(f)
     
