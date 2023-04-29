@@ -1,5 +1,4 @@
-# remove last object from the list
-l1 = [5,4,3,2,1]
-print("the min value is:",min(l1))  # to print minimum value
-print("the max value is:",max(l1))  # to print maximum value
-print("the sum of list:",sum(l1))
+l1 = [2,33,222,14,25]
+print(l1[-1]) #--> it prints the element of negative index 1
+
+print(l1.pop()) #--> it removes the last element of l1
