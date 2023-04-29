@@ -6,5 +6,4 @@ print(l1)
 
 l2 = [9,8,7,6,5,4,3,2,1]
 l1.extend(l2)
-
 print(l1)
