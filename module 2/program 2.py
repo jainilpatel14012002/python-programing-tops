@@ -5,4 +5,3 @@ for num in range(1,6):
     f=f*num
 print(f)
     
-

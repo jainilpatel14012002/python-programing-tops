@@ -1,5 +1,7 @@
 i1 = int(input("Enter the integer 1: "))
+
 i2 = int(input("Enter the integer 2: "))
+
 i3 = int(input("Enter the integer 3: "))
 
 S=i1+i2+i3 
