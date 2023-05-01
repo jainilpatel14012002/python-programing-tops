@@ -1,4 +1,2 @@
-l1 = [2,33,222,14,25]
-print(l1[-1]) #--> it prints the element of negative index 1
-
+l1 = [5,4,3,2,1]
 print(l1.pop()) #--> it removes the last element of l1
