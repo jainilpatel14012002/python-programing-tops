@@ -1,5 +1,12 @@
-STRING_1 = "PYTHON IS PROGRAMING LANGAUGE"
-TO_ADD = " GOOD"
-new_string = STRING_1[0:9] + TO_ADD + STRING_1[9:] 
-print(new_string)
-
+a = input("enter the string: ")
+b = input("enter the string: ")
+new=""
+new1=""
+d = (len(a)/2)
+for i in range(0,len(a)):
+    if(i<d):
+     new = new+a[i]
+    else:
+        new1=new1+a[i]
+new=new+b+new1
+print(new)
